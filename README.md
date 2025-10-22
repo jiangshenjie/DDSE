@@ -86,8 +86,8 @@ You should put them in the `./dataset` folder, or modify the dataset path on you
 
 Download processed MOSI, MOSEI datasets from the following links:
 
-- [MOSI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
-- [MOSEI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
+- [MOSI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing)
+- [MOSEI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing)
 
 
 ## Evaluation
