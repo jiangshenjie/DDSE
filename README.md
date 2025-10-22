@@ -86,15 +86,15 @@ You should put them in the `./dataset` folder, or modify the dataset path on you
 
 Download processed MOSI, MOSEI datasets from the following links:
 
-- [MOSI dataset]([https://www.isi.edu/~lerman/downloads/digg2009.html](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
-- [MOSEI dataset]([https://snap.stanford.edu/data/higgs-twitter.html](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
+- [MOSI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
+- [MOSEI dataset](https://drive.google.com/drive/folders/1BBadVSptOe4h8TWchkhWZRLJw8YG_aEi?usp=sharing))
 
 
 ## Evaluation
 DDSE is evaluated on MOSI and MOSEI using standard metrics:
 
-* **Accuracy (Acc-2 / Acc-5)**
-* **F1-score**
+* **Accuracy (Acc-2 / Acc-5 / Acc-7)**
+* **F1-score (F1)**
 * **Mean Absolute Error (MAE)**
 * **Correlation (Corr)**
 
