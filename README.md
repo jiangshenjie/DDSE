@@ -36,3 +36,18 @@ You can first set the dataset_name='mosi' or dataset_name='mosei' in `test.py`, 
 python test.py
 ```
 
+## Citation
+If you find this project useful for your research, please cite our paper:
+
+```
+@inproceedings{jiang2025ddse,
+  title     = {{DDSE}: A Decoupled Dual-Stream Enhanced Framework for Multimodal Sentiment Analysis with Text-Centric {SSM}},
+  author    = {Jiang, Shenjie and Wang, Zhuoyu and Wu, Xuecheng and Ji, Hongru and Li, Mingxin and Li, Xianghua and Gao, Chao},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+  year      = {2025},
+  pages     = {to appear}
+}
+```
+
+
+
